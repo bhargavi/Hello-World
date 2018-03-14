@@ -1,2 +1,3 @@
 # Hello-World
-tutorial repository
+tutorial
+by Bhargavi
